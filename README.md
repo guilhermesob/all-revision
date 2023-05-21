@@ -1,2 +1,2 @@
 # all-revision
-all resvion os more lenguagens of computing 
+all resvion of computing programming languages

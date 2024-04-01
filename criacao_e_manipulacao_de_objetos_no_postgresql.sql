@@ -1,4 +1,4 @@
-Criação e Manipulação de Objetos no PostgreSQL
+/*Criação e Manipulação de Objetos no PostgreSQL /*--- correção manualmete feira para rodar esse codigo no postgresql
 /*
 CRIAÇÃO E MANIPULAÇÃO DE OBJETOS – MÓDULO 1
  

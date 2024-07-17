@@ -1,0 +1,7 @@
+Este texto tem palavras repetidas
+mapreduce hadoop palavras
+palavras palavra hadoop texto python
+mrjob hadoop mapreduce hadoop mapreduce
+
+//executar o programa via terminal, executar o seguinte comando
+//python principal.py texto_exemplo.txt > qtd.txt
